@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+        "id": 1,
+        "name": "Ahmed Ali",
+        "date": "2022-01-01",
+        "amount": 1000
+        },
+        {
+        "id": 2,
+        "name": "Ahmed Ali",
+        "date": "2022-01-02",
+        "amount": 2000
+        },
+        {
+        "id": 3,
+        "name": "Aya Elsayed",
+        "date": "2022-01-01",
+        "amount": 550
+        },
+        {
+        "id": 4,
+        "name": "Mina Adel",
+        "date": "2022-01-01",
+        "amount": 500
+        },
+        {
+        "id": 5,
+        
+        "name": "Aya Elsayed",
+        "date": "2022-01-02",
+        "amount": 1300
+        },
+        {
+        "id": 6,
+        "name": "Sarah Reda",
+        "date": "2022-01-01",
+        "amount": 750
+        },
+        {
+        "id": 7,
+        "name": "Mina Adel",
+        "date": "2022-01-02",
+        "amount": 1250
+        },
+        {
+        "id": 8,
+        "name": "Mohamed Sayed",
+        "date": "2022-01-01",
+        "amount": 2500
+        },
+        {
+        "id": 9,
+        "name": "Mohamed Sayed",
+        "date": "2022-01-02",
+        "amount": 875
+        }
+    ]
+}
